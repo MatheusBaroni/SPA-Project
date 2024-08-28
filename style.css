@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+
+body{
+  background-image: url("img/home.png");
+  background-size: 100%;
+}
+
+/* page */
+
+main{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 90vh;
+}
+
+h1{
+  font-size: 4.8rem;
+}
+
+button{
+  margin-top: 2.4rem;
+  background: none;
+  border: none;
+}
