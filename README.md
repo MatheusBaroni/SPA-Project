@@ -1,2 +1,2 @@
-### Primeiro projeto SBA
+### First project SBA (Single Page Application)
 
